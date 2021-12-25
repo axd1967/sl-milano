@@ -3,6 +3,11 @@ Releases
 
 .. contents::
 
+0.1.1 (2021-12-25)
+------------------
+
+- move Via Farini below horizon
+
 0.1 (2021-12-25)
 ----------------
 
@@ -11,6 +16,6 @@ Releases
 TODO
 ====
 
-- cross of Viale Stelvio?
+- where/what is cross of Viale Stelvio?
 
 
