@@ -1,0 +1,13 @@
+# Fields must be separated by vertical line, label must not have such a vertical line.
+# Comments have this hash mark in first column. 
+# coordinates in degrees from true North. 
+# line towards zenith draws a single line strictly upward.
+# label is centered on line endpoint. 
+# Azimuth | Altitude | degrees-towards-zenith | azimuth shift | label
+
+128 | +00 | +15 | 0 | LINATE
+#000 | +00 | +00 | 0  | cross of Viale Stelvio
+106 | -00 | +00 | 0 | [Via FARINI]
+016 | +00 | +05 | 0 | Via FARINI > Carlo Maciachini
+196 | +00 | +05 | 0 | Via FARINI > Stelvio
+
